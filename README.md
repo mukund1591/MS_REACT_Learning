@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -79,3 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 17) React Router Setup + Usage 
     - react-router-dom  (install external package)
     
+=======
+# MS_REACT_Learning
+Learning REACT js
+>>>>>>> 34a39ae1f47d885ad6aed96931bc6cef32752fba
