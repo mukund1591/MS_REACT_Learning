@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MS_REACT_Learning/static/css/main.f855e6bc.css",
+    "main.js": "/MS_REACT_Learning/static/js/main.b63b737c.js",
+    "static/js/453.a43495d3.chunk.js": "/MS_REACT_Learning/static/js/453.a43495d3.chunk.js",
+    "index.html": "/MS_REACT_Learning/index.html",
+    "main.f855e6bc.css.map": "/MS_REACT_Learning/static/css/main.f855e6bc.css.map",
+    "main.b63b737c.js.map": "/MS_REACT_Learning/static/js/main.b63b737c.js.map",
+    "453.a43495d3.chunk.js.map": "/MS_REACT_Learning/static/js/453.a43495d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b63b737c.js"
+  ]
+}
